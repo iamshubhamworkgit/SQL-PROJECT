@@ -1,4 +1,4 @@
-#PIZZA SALES ANALYSIS
+# PIZZA SALES ANALYSIS
 
 In this project, I delved into a comprehensive dataset to uncover trends and insights about pizza sales. By leveraging SQL, I was able to:
 
